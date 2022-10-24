@@ -3,7 +3,7 @@ package ud1.practices;
 /*
  * El resultat de l'operaciÃ³ de collatz
  * per a N = 27 desprÃ©s de 12 iteracions
- * Ã©s ????  322
+ * Ã©s ????  322.
  */
 
 import java.util.Locale;
